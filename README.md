@@ -159,7 +159,7 @@ learning: ["ServiceNow Development", "Linux", "Cybersecurity"]
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/k-sevitha)
 
-*Open to ServiceNow Developer & SOC Analyst opportunities in Hyderabad!*
+*Open to ServiceNow Developer opportunities in Hyderabad!*
 
 </div>
 
