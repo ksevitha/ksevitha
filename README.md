@@ -91,21 +91,20 @@ My passion for cybersecurity led me to transition into Blue Team operations, whe
 - 🛡️ Building hands-on SOC investigation portfolio
 - 🎓 Preparing for CompTIA Security+
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<div align="center">
+I'm always open to connecting with professionals in Cybersecurity, Blue Team Operations, and Enterprise IT.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/k-sevitha)
+<p align="left">
+  <a href="https://linkedin.com/in/k-sevitha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Sevitha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ksevitha71@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-*Open to SOC Analyst opportunities*
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ksevitha&color=00C2FF&style=flat-square)
+> *Building practical cybersecurity skills through real investigations, one project at a time.*
 
 ⭐ *If you find my work interesting, consider giving a star!* ⭐
 
