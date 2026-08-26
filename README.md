@@ -58,31 +58,6 @@ My passion for cybersecurity led me to transition into Blue Team operations, whe
 
 🔗 https://github.com/ksevitha/servicenow-portfolio
 
-
-## 🗺️ Career Roadmap
-
-```
-📍 NOW          Technical Support Engineer @ MassMutual India
-                └── 2.5 years enterprise ITSM experience
-
-🎯 Q2 2026      ServiceNow CSA + ITIL Certified
-                └── Exam target: June 2026
-
-💼 Q3 2026      ServiceNow Developer Role
-                └── Target: 10 LPA | Hyderabad/Remote
-                └── CAD Certification
-
-🔐 Q4 2026      SOC Analyst Role
-                └── Security+ Certified
-                └── TryHackMe SOC Path complete
-
-🤖 2027+        Senior Cybersecurity + AI Role
-                └── Masters in AI + Cybersecurity
-                └── ServiceSense AI launched
-```
-
----
-
 ## 🎯 Current Focus
 
 - ✅ Networking for SOC (Completed)
