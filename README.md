@@ -96,16 +96,13 @@ My passion for cybersecurity led me to transition into Blue Team operations, whe
 I'm always open to connecting with professionals in Cybersecurity, Blue Team Operations, and Enterprise IT.
 
 <p align="left">
-  <a href="https://linkedin.com/in/k-sevitha" target="_blank">
+  <a href="https://linkedin.com/in/k-sevitha">
     <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Sevitha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:ksevitha71@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 > *Building practical cybersecurity skills through real investigations, one project at a time.*
-
-⭐ *If you find my work interesting, consider giving a star!* ⭐
-
-</div>
