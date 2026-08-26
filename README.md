@@ -1,16 +1,12 @@
-## <div align="center">
-## Hi, I'm Krishna Sevitha 👋
-### Technical Support Engineer → ServiceNow Developer → SOC Analyst
+# Hi, I'm Krishna Sevitha 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=ServiceNow+CSA+%7C+ITIL+Certified;Building+ServiceSense+AI+%F0%9F%A4%96;Transitioning+to+Cybersecurity+%F0%9F%94%90;Based+in+Hyderabad%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+### Cybersecurity | Enterprise IT | Aspiring SOC Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/k-sevitha)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ksevitha)
-[![Location](https://img.shields.io/badge/Hyderabad-India-orange?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Hyderabad,India)
+📍 Hyderabad, India
 
-</div>
+I'm an Enterprise IT professional transitioning into Cybersecurity through hands-on Blue Team labs, real incident investigations, and practical SOC projects.
 
----
+Currently building my portfolio with Networking, Linux, Wireshark, Splunk, and TryHackMe.
 
 ## 👩‍💻 About Me
 
