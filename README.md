@@ -39,22 +39,26 @@ My passion for cybersecurity led me to transition into Blue Team operations, whe
 
 ## 🚀 Featured Projects
 
-### 🤖 ServiceSense AI *(In Development)*
-> Intelligent ServiceNow-integrated chatbot that eliminates ITSM inefficiencies
+## 🚀 Featured Projects
 
-**Features being built:**
-- 🔍 Auto KB search & self-service resolution
-- 🔧 Auto-diagnostics for common IT issues  
-- 😊 Sentiment analysis for smart escalation
-- 🎫 Enriched ticket creation with full context
-- 📊 Proactive monitoring & alerts
-- 🧠 AI learning engine
+### 🛡️ SOC Learning Journal
+> Hands-on Blue Team labs, Wireshark investigations, networking, Linux, Splunk, and SOC case studies.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00C2FF?style=flat&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat&logoColor=white)
+🔗 https://github.com/ksevitha/soc-learning-journal
 
 ---
+
+### 🤖 ServiceSense AI
+> An intelligent ServiceNow-integrated chatbot focused on ITSM automation using AI.
+
+🔗 https://github.com/ksevitha/Servicesense-ai
+
+---
+
+### ☁️ ServiceNow Portfolio
+> ServiceNow development projects including CMDB, Flow Designer, Catalog Items, and automation labs.
+
+🔗 https://github.com/ksevitha/servicenow-portfolio
 
 ### 📋 IT Asset Tracker *(ServiceNow PDI)*
 > Complete custom ServiceNow application built from scratch
