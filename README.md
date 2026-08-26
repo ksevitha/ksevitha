@@ -97,7 +97,7 @@ My passion for cybersecurity led me to transition into Blue Team operations, whe
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/k-sevitha)
 
-*Open to ServiceNow Developer opportunities in Hyderabad!*
+*Open to SOC Analyst opportunities*
 
 </div>
 
