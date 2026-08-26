@@ -16,32 +16,26 @@ My passion for cybersecurity led me to transition into Blue Team operations, whe
 
 **Current Goal:** Secure a SOC Analyst role by demonstrating practical investigation skills through real-world portfolio projects.
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### 🔵 ServiceNow Platform
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00C2FF?style=for-the-badge&logo=servicenow&logoColor=white)
-![ITSM](https://img.shields.io/badge/ITSM-0052CC?style=for-the-badge&logoColor=white)
-![Flow Designer](https://img.shields.io/badge/Flow_Designer-00C2FF?style=for-the-badge&logoColor=white)
-![CMDB](https://img.shields.io/badge/CMDB-005571?style=for-the-badge&logoColor=white)
-
-### 🔐 Cybersecurity & IAM
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![CyberArk](https://img.shields.io/badge/CyberArk-EF3B2D?style=for-the-badge&logoColor=white)
-![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
+### 🔐 Cybersecurity
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0A66C2?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-2563EB?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🖥️ Daily Tools @ MassMutual
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![SCCM](https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+### 💼 Enterprise IT
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
+![SCCM](https://img.shields.io/badge/SCCM-5C2D91?style=for-the-badge)
 ![JAMF](https://img.shields.io/badge/JAMF-000000?style=for-the-badge&logo=jamf&logoColor=white)
-![BitLocker](https://img.shields.io/badge/BitLocker-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### 🤖 AI & Development
+### ☁️ ServiceNow & Automation
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00A65A?style=for-the-badge&logo=servicenow&logoColor=white)
+![Flow Designer](https://img.shields.io/badge/Flow_Designer-16A34A?style=for-the-badge)
+![CMDB](https://img.shields.io/badge/CMDB-0F766E?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white)
-
----
 
 ## 🚀 Featured Projects
 
