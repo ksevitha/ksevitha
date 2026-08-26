@@ -10,27 +10,11 @@ Currently building my portfolio with Networking, Linux, Wireshark, Splunk, and T
 
 ## 👩‍💻 About Me
 
-```yaml
-name: Krishna Sevitha
-location: Hyderabad, India
-current_role: Technical Support Engineer @ MassMutual India
-experience: 2.5 years in Enterprise ITSM
+I'm an Enterprise IT professional with 2.5+ years of experience supporting enterprise environments across Microsoft 365, SCCM, JAMF, Okta, Active Directory, and endpoint management.
 
-certifications:
-  - ServiceNow CSA (June 2026)
-  - ITIL Foundation (June 2026)
-  - Security+ (Target: Q3 2026)
+My passion for cybersecurity led me to transition into Blue Team operations, where I'm building hands-on skills through networking labs, packet analysis, Linux administration, Wireshark investigations, and SOC-focused projects.
 
-career_path:
-  now:     "ServiceNow Developer"
-  next:    "SOC Analyst"
-  future:  "Masters in AI + Cybersecurity"
-
-building: "ServiceSense AI - Intelligent ITSM Chatbot"
-learning: ["ServiceNow Development", "Linux", "Cybersecurity"]
-```
-
----
+**Current Goal:** Secure a SOC Analyst role by demonstrating practical investigation skills through real-world portfolio projects.
 
 ## 🛠️ Tech Stack & Skills
 
