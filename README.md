@@ -39,8 +39,6 @@ My passion for cybersecurity led me to transition into Blue Team operations, whe
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🛡️ SOC Learning Journal
 > Hands-on Blue Team labs, Wireshark investigations, networking, Linux, Splunk, and SOC case studies.
 
@@ -60,29 +58,6 @@ My passion for cybersecurity led me to transition into Blue Team operations, whe
 
 🔗 https://github.com/ksevitha/servicenow-portfolio
 
-### 📋 IT Asset Tracker *(ServiceNow PDI)*
-> Complete custom ServiceNow application built from scratch
-
-**Built independently:**
-- Custom table with full field configuration
-- ACL security (read/write/create/delete)
-- Service Catalog integration
-- Flow Designer automation
-- Dashboard & reports
-
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00C2FF?style=flat&logoColor=white)
-![CMDB](https://img.shields.io/badge/CMDB-005571?style=flat&logoColor=white)
-
----
-
-### 🔐 SOC Learning Journal *(This Repo!)*
-> Documenting my cybersecurity learning journey
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-
----
 
 ## 📊 GitHub Stats
 
