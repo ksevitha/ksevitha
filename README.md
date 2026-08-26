@@ -59,19 +59,6 @@ My passion for cybersecurity led me to transition into Blue Team operations, whe
 🔗 https://github.com/ksevitha/servicenow-portfolio
 
 
-## 📊 GitHub Analytics
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ksevitha&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=ksevitha&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksevitha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🗺️ Career Roadmap
 
 ```
@@ -96,14 +83,13 @@ My passion for cybersecurity led me to transition into Blue Team operations, whe
 
 ---
 
-## 📈 Current Focus
+## 🎯 Current Focus
 
-- 🎓 **Studying:** ServiceNow CSA (exam June 2026)
-- 🔨 **Building:** ServiceSense AI chatbot
-- 📚 **Learning:** Linux, Cybersecurity fundamentals
-- 🎯 **Goal:** ServiceNow Developer role by July 2026
-
----
+- ✅ Networking for SOC (Completed)
+- 🐧 Linux for Blue Team Operations
+- 📊 Splunk SIEM
+- 🛡️ Building hands-on SOC investigation portfolio
+- 🎓 Preparing for CompTIA Security+
 
 ## 🤝 Connect With Me
 
