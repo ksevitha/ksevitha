@@ -75,14 +75,6 @@ Enterprise ServiceNow development and automation work.
 
 ---
 
-## 📊 GitHub Stats
-
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksevitha&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksevitha&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌱 Current Learning Journey
 
 - ✅ Networking & Packet Analysis
