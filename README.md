@@ -32,6 +32,7 @@ My goal is to become a **SOC Analyst** by demonstrating real-world investigation
 | **2.5+ Years** Enterprise IT | SOC Analyst | Blue Team Investigations | Continuous Growth |
 
 <br>
+
 ## 🛠️ Technical Skills
 
 <table>
