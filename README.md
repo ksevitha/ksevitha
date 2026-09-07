@@ -86,11 +86,10 @@ Enterprise ServiceNow development and automation work.
 ## 🌱 Current Learning Journey
 
 - ✅ Networking & Packet Analysis
-- ✅ Wireshark Investigations
-- ✅ Linux Networking
-- 🔄 Splunk SIEM
-- 🔄 TryHackMe SOC Level 1
-- 🎯 CompTIA Security+
+- ✅ 8 SOC Investigations Completed
+- 🔄 Linux for SOC (5-Day Sprint)
+- ⏳ CompTIA Security+ (Next Phase)
+- ⏳ TryHackMe SOC Level 1 (After Security+)
 
 ---
 
