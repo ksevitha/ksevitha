@@ -1,6 +1,7 @@
 <p align="center">
   <img src="screenshots/soc.png" width="100%" alt="Krishna Sevitha Banner"/>
 </p>
+
 # Hi, I'm Krishna Sevitha 👋
 
 ### Cybersecurity | Enterprise IT | Aspiring SOC Analyst
