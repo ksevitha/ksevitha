@@ -124,3 +124,33 @@ AI-powered IT service management assistant for enterprise support operations.
 </td>
 </tr>
 </table>
+
+---
+
+# 📖 Current Learning Journey
+
+| Status | Roadmap |
+|---|---|
+| ✅ Completed | Networking & Packet Analysis |
+| ✅ Completed | 8 SOC Investigations |
+| 🟢 In Progress | Linux for SOC |
+| ⏳ Next | CompTIA Security+ |
+| 🎯 Goal | TryHackMe SOC Level 1 |
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishna-sevitha">
+    <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Sevitha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  💙 Open to SOC Analyst • Blue Team • Cybersecurity opportunities
+</p>
+
+<p align="center">
+  <i>"Every packet tells a story. Every investigation builds a better defender."</i>
+</p>
