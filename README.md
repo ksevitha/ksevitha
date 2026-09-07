@@ -2,95 +2,31 @@
   <img src="screenshots/soc.png" width="100%" alt="Krishna Sevitha Banner"/>
 </p>
 
-# Hi, I'm Krishna Sevitha 👋
+<h1 align="center">Hi, I'm Krishna Sevitha 👋</h1>
 
-### Cybersecurity | Enterprise IT | Aspiring SOC Analyst
+<h3 align="center">
+Enterprise IT → Cybersecurity | Aspiring SOC Analyst | Blue Team
+</h3>
 
-📍 Hyderabad, India
-
-I'm an Enterprise IT professional transitioning into **Blue Team Cybersecurity** through hands-on SOC investigations, Linux administration, Wireshark packet analysis, Splunk, and TryHackMe.
-
-My goal is to become a **SOC Analyst** by building practical skills and documenting real-world investigations.
-
----
-
-## 👩‍💻 About Me
-
-- 🛡️ 2.5+ years in Enterprise IT Support
-- ☁️ Microsoft 365, SCCM, JAMF, Okta & Active Directory
-- 🔍 Hands-on Blue Team & Network Security Labs
-- 🐧 Currently mastering Linux for SOC Operations
-- 🎯 Target Role: SOC Analyst (Blue Team)
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishna-sevitha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-### Cybersecurity
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=target&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+I'm an Enterprise IT professional transitioning into **Blue Team Cybersecurity** through hands-on SOC investigations, Linux administration, Wireshark packet analysis, Splunk, and practical security projects.
 
-### Enterprise IT
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![SCCM](https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge)
-![JAMF](https://img.shields.io/badge/JAMF-000000?style=for-the-badge)
-![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
-
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+My goal is to become a **SOC Analyst** by demonstrating real-world investigation skills and continuous learning.
 
 ---
 
-## 🚨 Featured Cybersecurity Portfolio
+## Snapshot
 
-### SOC Learning Journal
-**8 Hands-on Network & SOC Investigations**
-
-- SSH Brute Force Investigation
-- ARP Spoofing (MITM)
-- DNS Traffic Analysis
-- DNS Tunnelling Detection
-- HTTP vs HTTPS Investigation
-- TLS Handshake Analysis
-- DHCP Investigation
-- Nmap Detection
-
-🔗 **Repository:**  
-https://github.com/ksevitha/soc-learning-journal
-
----
-
-## 💼 Other Projects
-
-### 🤖 ServiceSense AI
-AI-powered IT service management project.
-
-🔗 https://github.com/ksevitha/Servicesense-ai
-
-### ⚙️ ServiceNow Portfolio
-Enterprise ServiceNow development and automation work.
-
-🔗 https://github.com/ksevitha/servicenow-portfolio
-
----
-
-## 🌱 Current Learning Journey
-
-- ✅ Networking & Packet Analysis
-- ✅ 8 SOC Investigations Completed
-- 🔄 Linux for SOC (5-Day Sprint)
-- ⏳ CompTIA Security+ (Next Phase)
-- ⏳ TryHackMe SOC Level 1 (After Security+)
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: www.linkedin.com/in/krishna-sevitha
-- 📧 Cybersecurity Portfolio: GitHub Projects Above
-
-> *Learning cybersecurity by building, investigating, and documenting—not just studying.*
+| 🛡️ Experience | 🎯 Goal | 🔍 Focus | 📚 Learning |
+|---|---|---|---|
+| **2.5+ Years** Enterprise IT | SOC Analyst | Blue Team Investigations | Continuous Growth |
