@@ -42,43 +42,35 @@ My goal is to become a **SOC Analyst** by demonstrating real-world investigation
 ### 🔐 Cybersecurity
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="48"/>
-</p>
-
-<p align="center">
-Wireshark • Splunk • Nmap • TryHackMe
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </p>
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 💼 Enterprise IT
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48"/>
-  <img src="https://img.shields.io/badge/SCCM-0078D4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JAMF-555555?style=flat-square"/>
-</p>
-
-<p align="center">
-Microsoft 365 • SCCM • JAMF • Okta • Active Directory
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/JAMF-000000?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white"/>
 </p>
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 🐧 Operating Systems
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
-  <img src="https://www.kali.org/images/kali-logo.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48"/>
-</p>
-
-<p align="center">
-Linux • Kali Linux • Ubuntu
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br>
+  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
 </td>
