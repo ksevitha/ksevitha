@@ -30,3 +30,58 @@ My goal is to become a **SOC Analyst** by demonstrating real-world investigation
 | 🛡️ Experience | 🎯 Goal | 🔍 Focus | 📚 Learning |
 |---|---|---|---|
 | **2.5+ Years** Enterprise IT | SOC Analyst | Blue Team Investigations | Continuous Growth |
+
+<br>
+
+## 🛠️ Technical Skills
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔐 Cybersecurity
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=wireshark" width="45" title="Wireshark"/>
+<img src="https://skillicons.dev/icons?i=linux" width="45" title="Linux"/>
+<img src="https://skillicons.dev/icons?i=nmap" width="45" title="Nmap"/>
+</p>
+
+<p>
+Wireshark • Linux • Nmap
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💼 Enterprise IT
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=windows" width="45" title="Windows"/>
+<img src="https://skillicons.dev/icons?i=microsoft" width="45" title="Microsoft"/>
+</p>
+
+<p>
+Microsoft 365 • SCCM • JAMF • Okta • Active Directory
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🐧 Operating Systems
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux" width="45" title="Linux"/>
+<img src="https://skillicons.dev/icons?i=kali" width="45" title="Kali Linux"/>
+<img src="https://skillicons.dev/icons?i=ubuntu" width="45" title="Ubuntu"/>
+</p>
+
+<p>
+Linux • Kali Linux • Ubuntu
+</p>
+
+</td>
+</tr>
+</table>
