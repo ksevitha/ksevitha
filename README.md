@@ -1,82 +1,102 @@
+
 # Hi, I'm Krishna Sevitha 👋
 
 ### Cybersecurity | Enterprise IT | Aspiring SOC Analyst
 
 📍 Hyderabad, India
 
-I'm an Enterprise IT professional transitioning into Cybersecurity through hands-on Blue Team labs, real incident investigations, and practical SOC projects.
+I'm an Enterprise IT professional transitioning into **Blue Team Cybersecurity** through hands-on SOC investigations, Linux administration, Wireshark packet analysis, Splunk, and TryHackMe.
 
-Currently building my portfolio with Networking, Linux, Wireshark, Splunk, and TryHackMe.
+My goal is to become a **SOC Analyst** by building practical skills and documenting real-world investigations.
+
+---
 
 ## 👩‍💻 About Me
 
-I'm an Enterprise IT professional with 2.5+ years of experience supporting enterprise environments across Microsoft 365, SCCM, JAMF, Okta, Active Directory, and endpoint management.
-
-My passion for cybersecurity led me to transition into Blue Team operations, where I'm building hands-on skills through networking labs, packet analysis, Linux administration, Wireshark investigations, and SOC-focused projects.
-
-**Current Goal:** Secure a SOC Analyst role by demonstrating practical investigation skills through real-world portfolio projects.
-
-## 🛠️ Tech Stack
-
-### 🔐 Cybersecurity
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0A66C2?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-2563EB?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 💼 Enterprise IT
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge)
-![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
-![SCCM](https://img.shields.io/badge/SCCM-5C2D91?style=for-the-badge)
-![JAMF](https://img.shields.io/badge/JAMF-000000?style=for-the-badge&logo=jamf&logoColor=white)
-
-### ☁️ ServiceNow & Automation
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00A65A?style=for-the-badge&logo=servicenow&logoColor=white)
-![Flow Designer](https://img.shields.io/badge/Flow_Designer-16A34A?style=for-the-badge)
-![CMDB](https://img.shields.io/badge/CMDB-0F766E?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 🚀 Featured Projects
-
-### 🛡️ SOC Learning Journal
-> Hands-on Blue Team labs, Wireshark investigations, networking, Linux, Splunk, and SOC case studies.
-
-🔗 https://github.com/ksevitha/soc-learning-journal
+- 🛡️ 2.5+ years in Enterprise IT Support
+- ☁️ Microsoft 365, SCCM, JAMF, Okta & Active Directory
+- 🔍 Hands-on Blue Team & Network Security Labs
+- 🐧 Currently mastering Linux for SOC Operations
+- 🎯 Target Role: SOC Analyst (Blue Team)
 
 ---
 
+## 🛠️ Technical Skills
+
+### Cybersecurity
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=target&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+
+### Enterprise IT
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![SCCM](https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge)
+![JAMF](https://img.shields.io/badge/JAMF-000000?style=for-the-badge)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
+
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
+## 🚨 Featured Cybersecurity Portfolio
+
+### SOC Learning Journal
+**8 Hands-on Network & SOC Investigations**
+
+- SSH Brute Force Investigation
+- ARP Spoofing (MITM)
+- DNS Traffic Analysis
+- DNS Tunnelling Detection
+- HTTP vs HTTPS Investigation
+- TLS Handshake Analysis
+- DHCP Investigation
+- Nmap Detection
+
+🔗 **Repository:**  
+https://github.com/ksevitha/soc-learning-journal
+
+---
+
+## 💼 Other Projects
+
 ### 🤖 ServiceSense AI
-> An intelligent ServiceNow-integrated chatbot focused on ITSM automation using AI.
+AI-powered IT service management project.
 
 🔗 https://github.com/ksevitha/Servicesense-ai
 
----
-
-### ☁️ ServiceNow Portfolio
-> ServiceNow development projects including CMDB, Flow Designer, Catalog Items, and automation labs.
+### ⚙️ ServiceNow Portfolio
+Enterprise ServiceNow development and automation work.
 
 🔗 https://github.com/ksevitha/servicenow-portfolio
 
-## 🎯 Current Focus
+---
 
-- ✅ Networking for SOC (Completed)
-- 🐧 Linux for Blue Team Operations
-- 📊 Splunk SIEM
-- 🛡️ Building hands-on SOC investigation portfolio
-- 🎓 Preparing for CompTIA Security+
+## 📊 GitHub Stats
+
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksevitha&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksevitha&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌱 Current Learning Journey
+
+- ✅ Networking & Packet Analysis
+- ✅ Wireshark Investigations
+- ✅ Linux Networking
+- 🔄 Splunk SIEM
+- 🔄 TryHackMe SOC Level 1
+- 🎯 CompTIA Security+
+
+---
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with professionals in Cybersecurity, Blue Team Operations, and Enterprise IT.
+- 💼 LinkedIn: www.linkedin.com/in/krishna-sevitha
+- 📧 Cybersecurity Portfolio: GitHub Projects Above
 
-<p align="left">
-  <a href="https://linkedin.com/in/k-sevitha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Sevitha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ksevitha71@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-> *Building practical cybersecurity skills through real investigations, one project at a time.*
+> *Learning cybersecurity by building, investigating, and documenting—not just studying.*
