@@ -76,3 +76,51 @@ My goal is to become a **SOC Analyst** by demonstrating real-world investigation
 </td>
 </tr>
 </table>
+
+---
+
+# 📂 Technical Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+## 🛡️ SOC Learning Journal
+
+8 hands-on Network & SOC investigations using Wireshark, Nmap and Linux.
+
+**Skills:** Packet Analysis · Reconnaissance · HTTP/HTTPS · DHCP
+
+🔗 **Repository**
+
+[ksevitha/soc-learning-journal](https://github.com/ksevitha/soc-learning-journal)
+
+</td>
+<td width="33%" valign="top">
+
+## ⚙️ ServiceNow Portfolio
+
+Enterprise ServiceNow development, workflows, catalog items and automation.
+
+**Skills:** ServiceNow · ITSM · Workflow · JavaScript
+
+🔗 **Repository**
+
+[ksevitha/servicenow-portfolio](https://github.com/ksevitha/servicenow-portfolio)
+
+</td>
+<td width="33%" valign="top">
+
+## 🤖 ServiceSense AI
+
+AI-powered IT service management assistant for enterprise support operations.
+
+**Skills:** AI · IT Support · Automation · Enterprise
+
+🔗 **Repository**
+
+[ksevitha/Servicesense-ai](https://github.com/ksevitha/Servicesense-ai)
+
+</td>
+</tr>
+</table>
