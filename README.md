@@ -32,7 +32,6 @@ My goal is to become a **SOC Analyst** by demonstrating real-world investigation
 | **2.5+ Years** Enterprise IT | SOC Analyst | Blue Team Investigations | Continuous Growth |
 
 <br>
-
 ## 🛠️ Technical Skills
 
 <table>
@@ -41,44 +40,43 @@ My goal is to become a **SOC Analyst** by demonstrating real-world investigation
 
 ### 🔐 Cybersecurity
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=wireshark" width="45" title="Wireshark"/>
-<img src="https://skillicons.dev/icons?i=linux" width="45" title="Linux"/>
-<img src="https://skillicons.dev/icons?i=nmap" width="45" title="Nmap"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="48"/>
 </p>
 
-<p>
-Wireshark • Linux • Nmap
+<p align="center">
+Wireshark • Splunk • Nmap • TryHackMe
 </p>
 
 </td>
-
 <td width="33%" valign="top">
 
 ### 💼 Enterprise IT
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=windows" width="45" title="Windows"/>
-<img src="https://skillicons.dev/icons?i=microsoft" width="45" title="Microsoft"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48"/>
+  <img src="https://img.shields.io/badge/SCCM-0078D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JAMF-555555?style=flat-square"/>
 </p>
 
-<p>
+<p align="center">
 Microsoft 365 • SCCM • JAMF • Okta • Active Directory
 </p>
 
 </td>
-
 <td width="33%" valign="top">
 
 ### 🐧 Operating Systems
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux" width="45" title="Linux"/>
-<img src="https://skillicons.dev/icons?i=kali" width="45" title="Kali Linux"/>
-<img src="https://skillicons.dev/icons?i=ubuntu" width="45" title="Ubuntu"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
+  <img src="https://www.kali.org/images/kali-logo.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48"/>
 </p>
 
-<p>
+<p align="center">
 Linux • Kali Linux • Ubuntu
 </p>
 
