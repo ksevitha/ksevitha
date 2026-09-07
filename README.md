@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="100%" alt="Krishna Sevitha Banner"/>
+  <img src="screenshots/soc.png" width="100%" alt="Krishna Sevitha Banner"/>
 </p>
 # Hi, I'm Krishna Sevitha 👋
 
